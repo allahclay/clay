@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/?theme=dark)](https://discord.com/users/1208078966456586270)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1208078966456586270)](https://discord.com/users/1208078966456586270)
 
 <h2>Ben Kimim</h2>
 
